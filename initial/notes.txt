@@ -1,0 +1,18 @@
+##to open a c or c++ compiler in vs code it has to be launched from the developer tools to code 
+
+
+##the developer tools are the command propmt of vs code and need the basic commands such as 
+-cd to navigate 
+-mkdir to make a new dir
+-code . = to make a new code file for c/c++
+
+##vscode itself has these condensed settings that it needs for the compilers to run under .vscode which are also pushed to git 
+which i believe sooner or later i will be able to exclude as i havent seen them in many repos
+
+## starting git on a new device requires telling git the global user name and global email
+
+## straight away cloning a repo doesnt work for c/c++ , need to start from developer commands of vs code and clone over there only to 
+use them
+
+
+## need to check what these red files with many extensions mean and why they are created each time
